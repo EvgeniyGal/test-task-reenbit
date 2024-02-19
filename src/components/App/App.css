@@ -1,0 +1,16 @@
+.main-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 16px;
+}
+
+.logo {
+  padding: 32px 0;
+  font-weight: 500;
+  font-size: 32px;
+  color: rgb(18, 18, 18);
+}
+
+.logo span {
+  font-weight: 700;
+}
